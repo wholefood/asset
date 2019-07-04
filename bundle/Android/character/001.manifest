@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 743690345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ac0be70192ad4e666f8b7db5d5f9bc5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a5c98fdbed48c9aa733a8a0fccf71f75
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Data/AssetBundle/Character/001_Poowong/fbx_poowong@talk.FBX
+- Assets/_Data/AssetBundle/Character/001_Poowong/Materials/poowoong_01.png
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/fbx_poowong.FBX
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/Materials/poowoong_02.png
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/fbx_poowong@talk.FBX
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/fbx_poowong@walk.FBX
+- Assets/_Data/AssetBundle/Character/001_Poowong/Materials/poowoong_02.mat
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/fbx_poowong@smile.FBX
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/fbx_poowong@idle.FBX
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/fbx_poowong@sad.FBX
+- Assets/_Data/AssetBundle/Character/001_Poowong/fbx_poowong@walk.FBX
+- Assets/_Data/AssetBundle/Character/001_Poowong/Prefab/poowong.prefab
+- Assets/_Data/AssetBundle/Character/001_Poowong/Materials/poowoong_01.mat
+- Assets/_Data/AssetBundle/Character/001_Poowong/fbx_poowong@sad.FBX
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/Materials/poowoong_01.png
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/Prefab/poowong.prefab
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/fbx_poowong@surprise.FBX
+- Assets/_Data/AssetBundle/Character/001_Poowong/fbx_poowong@surprise.FBX
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/Materials/poowoong_02.mat
+- Assets/_Data/_Local/10_Prefab/Character/001_Poowong/Materials/poowoong_01.mat
+- Assets/_Data/AssetBundle/Character/001_Poowong/fbx_poowong.FBX
+- Assets/_Data/AssetBundle/Character/001_Poowong/fbx_poowong@smile.FBX
+- Assets/_Data/AssetBundle/Character/001_Poowong/fbx_poowong@idle.FBX
+- Assets/_Data/AssetBundle/Character/001_Poowong/Materials/poowoong_02.png
+Dependencies: []

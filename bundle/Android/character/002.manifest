@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 162009235
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 823dbcb10b546a4aa090a0845088beba
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8b9309afc179436bb64e21ede8a7033b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/_Data/AssetBundle/Character/002_Rewoong/fbx_rewoong.FBX
+- Assets/_Data/AssetBundle/Character/002_Rewoong/fbx_rewoong@smile.FBX
+- Assets/_Data/AssetBundle/Character/002_Rewoong/Materials/rewoong_01.png
+- Assets/_Data/AssetBundle/Character/002_Rewoong/fbx_rewoong@surprise.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/Materials/rewoong_01.mat
+- Assets/_Data/AssetBundle/Character/002_Rewoong/fbx_rewoong@talk.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/fbx_rewoong@walk.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/Prefab/rewoong.prefab
+- Assets/_Data/AssetBundle/Character/002_Rewoong/fbx_rewoong@idle.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/fbx_rewoong@talk.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/fbx_rewoong.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/fbx_rewoong@idle.FBX
+- Assets/_Data/AssetBundle/Character/002_Rewoong/fbx_rewoong@walk.FBX
+- Assets/_Data/AssetBundle/Character/002_Rewoong/Materials/rewoong_01.mat
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/fbx_rewoong@sad.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/fbx_rewoong@smile.FBX
+- Assets/_Data/AssetBundle/Character/002_Rewoong/fbx_rewoong@sad.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/fbx_rewoong@surprise.FBX
+- Assets/_Data/_Local/10_Prefab/Character/002_Rewoong/Materials/rewoong_01.png
+- Assets/_Data/AssetBundle/Character/002_Rewoong/Prefab/rewoong.prefab
+Dependencies: []
